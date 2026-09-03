@@ -1,8 +1,8 @@
-# Информатика 7–11 класс
+# Информатика и технология, 5–11 класс
 
 ### Интерактивный учебник в Google Colab
 
-Курс из 170 уроков: пять лет по 34 учебные недели, один урок в неделю по 40 минут. Каждый урок — отдельный ноутбук Google Colab с теорией, разобранными примерами, задачами для работы в классе и домашним заданием, которое проверяется автоматически.
+Каждый урок — отдельный ноутбук Google Colab: разбор темы, примеры, которые можно запустить и изменить, задачи с проверкой прямо на месте и домашнее задание. Ничего устанавливать не нужно.
 
 **[→ Открыть оглавление курса](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/index.ipynb)**
 
@@ -10,15 +10,16 @@
 
 ## Классы
 
-| Класс | Тема года | Готово | Открыть |
-|---|---|:--:|---|
-| 7 | Информация, компьютер и первые программы | 8 из 34 | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-07/index.ipynb) |
-| 8 | Математические основы информатики и алгоритмы | 8 из 34 | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-08/index.ipynb) |
-| 9 | Моделирование, данные, сети и подготовка к ОГЭ | 8 из 34 | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-09/index.ipynb) |
-| 10 | Теоретические основы информатики и уверенный Python | 8 из 34 | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-10/index.ipynb) |
-| 11 | Алгоритмы, базы данных, сети и подготовка к ЕГЭ | 8 из 34 | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-11/index.ipynb) |
+| Класс | О чём год | |
+|---|---|---|
+| 5–6 класс | Технология: цифровой мир | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-05-06/index.ipynb) |
+| 7 класс | Информация, компьютер и первые программы | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-07/index.ipynb) |
+| 8 класс | Математические основы информатики и алгоритмы | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-08/index.ipynb) |
+| 9 класс | Моделирование, данные, сети и подготовка к ОГЭ | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-09/index.ipynb) |
+| 10 класс | Теоретические основы информатики и уверенный Python | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-10/index.ipynb) |
+| 11 класс | Алгоритмы, базы данных, сети и подготовка к ЕГЭ | [оглавление](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/klass-11/index.ipynb) |
 
-Учебный план расписан на все 170 уроков — темы, содержание и домашние задания видны в оглавлении каждого класса.
+Темы всего года, содержание уроков и домашние задания видны в оглавлении каждого класса.
 
 Дополнительно есть необязательные тренажёры: [ОГЭ](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/oge/index.ipynb) и [ЕГЭ](https://colab.research.google.com/github/LeksssGray/informatika-7-11/blob/main/ege/index.ipynb).
 
@@ -40,17 +41,6 @@
 Исходники уроков, ноутбуки с решениями и инструкция по настройке журнала находятся в отдельном приватном репозитории.
 
 ---
-
-## Как устроен урок
-
-| Этап | Время |
-|---|---|
-| Разбор теории | 15 мин |
-| Примеры с разбором | 10 мин |
-| Задачи в классе | 12 мин |
-| Выдача домашнего задания | 3 мин |
-
-Домашнее задание — три задачи примерно на 30–40 минут самостоятельной работы.
 
 ---
 
