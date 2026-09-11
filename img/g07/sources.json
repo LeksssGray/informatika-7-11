@@ -1,0 +1,38 @@
+{
+ "magistral.png": {
+  "title": "File:Computer system bus-ru.svg",
+  "license": "CC0",
+  "artist": "Д. Ильин",
+  "page": "https://commons.wikimedia.org/wiki/File:Computer_system_bus-ru.svg"
+ },
+ "pk-razbor.png": {
+  "title": "File:Personal computer, exploded 4.svg",
+  "license": "CC BY 2.5",
+  "artist": "Gustavb",
+  "page": "https://commons.wikimedia.org/wiki/File:Personal_computer,_exploded_4.svg"
+ },
+ "tux.png": {
+  "title": "File:Linux tux circle logo.svg",
+  "license": "CC0",
+  "artist": "Roberto Guido, Virginia Foti",
+  "page": "https://commons.wikimedia.org/wiki/File:Linux_tux_circle_logo.svg"
+ },
+ "brain.jpg": {
+  "title": "File:Brain-virus.jpg",
+  "license": "CC BY 2.5",
+  "artist": "Avinash Meetoo",
+  "page": "https://commons.wikimedia.org/wiki/File:Brain-virus.jpg"
+ },
+ "zhakkard.jpg": {
+  "title": "File:A Jacquard loom showing information punchcards, National Museum of Scotland.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Stephen C. Dickson",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Jacquard_loom_showing_information_punchcards,_National_Museum_of_Scotland.jpg"
+ },
+ "alto.jpg": {
+  "title": "File:Xerox Alto I (1973) CPU with monitor, mouse, keyboard and 5-key chording keyset - Computer History Museum (2007-11-10 23.16.17 by Carlo Nardone).jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "Carlo Nardone",
+  "page": "https://commons.wikimedia.org/wiki/File:Xerox_Alto_I_(1973)_CPU_with_monitor,_mouse,_keyboard_and_5-key_chording_keyset_-_Computer_History_Museum_(2007-11-10_23.16.17_by_Carlo_Nardone).jpg"
+ }
+}
