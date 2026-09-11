@@ -1,0 +1,86 @@
+{
+ "bul.jpg": {
+  "title": "File:George Boole color.jpg",
+  "license": "общественное достояние",
+  "artist": "портрет XIX века",
+  "page": "https://commons.wikimedia.org/wiki/File:George_Boole_color.jpg"
+ },
+ "shennon.jpg": {
+  "title": "File:ClaudeShannon MFO3807.jpg",
+  "license": "CC BY-SA 2.0 de",
+  "artist": "Konrad Jacobs",
+  "page": "https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg"
+ },
+ "venn-i.png": {
+  "title": "File:Venn0001.svg",
+  "license": "общественное достояние",
+  "artist": "Watchduck",
+  "page": "https://commons.wikimedia.org/wiki/File:Venn0001.svg"
+ },
+ "venn-ili.png": {
+  "title": "File:Venn0111.svg",
+  "license": "общественное достояние",
+  "artist": "Watchduck",
+  "page": "https://commons.wikimedia.org/wiki/File:Venn0111.svg"
+ },
+ "tranzistor.jpg": {
+  "title": "File:Electronic-Component-Through-Hole-Transistor.jpg",
+  "license": "общественное достояние",
+  "artist": "Evan-Amos",
+  "page": "https://commons.wikimedia.org/wiki/File:Electronic-Component-Through-Hole-Transistor.jpg"
+ },
+ "horezmi.jpg": {
+  "title": "File:1983 CPA 5426 (1).png",
+  "license": "общественное достояние",
+  "artist": "почта СССР, 1983",
+  "page": "https://commons.wikimedia.org/wiki/File:1983_CPA_5426_(1).png"
+ },
+ "lampa.png": {
+  "title": "File:LampFlowchart-ru.svg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Wapcaplet, перевод Nyq",
+  "page": "https://commons.wikimedia.org/wiki/File:LampFlowchart-ru.svg"
+ },
+ "and-ansi.png": {
+  "title": "File:AND ANSI Labelled.svg",
+  "license": "общественное достояние",
+  "artist": "Inductiveload",
+  "page": "https://commons.wikimedia.org/wiki/File:AND_ANSI_Labelled.svg"
+ },
+ "or-ansi.png": {
+  "title": "File:OR ANSI Labelled.svg",
+  "license": "общественное достояние",
+  "artist": "Inductiveload",
+  "page": "https://commons.wikimedia.org/wiki/File:OR_ANSI_Labelled.svg"
+ },
+ "not-ansi.png": {
+  "title": "File:NOT ANSI Labelled.svg",
+  "license": "общественное достояние",
+  "artist": "Inductiveload",
+  "page": "https://commons.wikimedia.org/wiki/File:NOT_ANSI_Labelled.svg"
+ },
+ "venn-impl.png": {
+  "title": "File:Venn1011.svg",
+  "license": "общественное достояние",
+  "artist": "Watchduck",
+  "page": "https://commons.wikimedia.org/wiki/File:Venn1011.svg"
+ },
+ "venn-ekv.png": {
+  "title": "File:Venn1001.svg",
+  "license": "общественное достояние",
+  "artist": "Watchduck",
+  "page": "https://commons.wikimedia.org/wiki/File:Venn1001.svg"
+ },
+ "demorgan.jpg": {
+  "title": "File:De Morgan Augustus.jpg",
+  "license": "общественное достояние",
+  "artist": "из книги С. де Морган, 1882",
+  "page": "https://commons.wikimedia.org/wiki/File:De_Morgan_Augustus.jpg"
+ },
+ "kerroll.jpg": {
+  "title": "File:Lewis Carroll 1863.jpg",
+  "license": "общественное достояние",
+  "artist": "Оскар Рейландер, 1863",
+  "page": "https://commons.wikimedia.org/wiki/File:Lewis_Carroll_1863.jpg"
+ }
+}
