@@ -172,5 +172,65 @@
   "license": "CC BY-SA 3.0",
   "artist": "Coolcaesar",
   "page": "https://commons.wikimedia.org/wiki/File:First_Web_Server.jpg"
+ },
+ "enigma.jpg": {
+  "title": "File:Enigma Machine at NSA.jpg",
+  "license": "общественное достояние",
+  "artist": "Агентство национальной безопасности США",
+  "page": "https://commons.wikimedia.org/wiki/File:Enigma_Machine_at_NSA.jpg"
+ },
+ "fishing.png": {
+  "title": "File:Example phishing email.svg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Isochrone, Philip Metschan",
+  "page": "https://commons.wikimedia.org/wiki/File:Example_phishing_email.svg"
+ },
+ "diskety.jpg": {
+  "title": "File:Floppy Disk Drives 8 5 3.jpg",
+  "license": "общественное достояние",
+  "artist": "Michael Holley",
+  "page": "https://commons.wikimedia.org/wiki/File:Floppy_Disk_Drives_8_5_3.jpg"
+ },
+ "katalog.jpg": {
+  "title": "File:Card catalog at the Indiana State Library - interior view of catalog cards.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "TBurmeister",
+  "page": "https://commons.wikimedia.org/wiki/File:Card_catalog_at_the_Indiana_State_Library_-_interior_view_of_catalog_cards.jpg"
+ },
+ "google-server.jpg": {
+  "title": "File:Googles First Server.jpg",
+  "license": "CC BY 2.0",
+  "artist": "Erik Pitti",
+  "page": "https://commons.wikimedia.org/wiki/File:Googles_First_Server.jpg"
+ },
+ "fleshka.jpg": {
+  "title": "File:USB flash drive, 1TB.jpg",
+  "license": "CC0",
+  "artist": "EU+Mexico",
+  "page": "https://commons.wikimedia.org/wiki/File:USB_flash_drive,_1TB.jpg"
+ },
+ "arhiv.jpg": {
+  "title": "File:Internet Archive servers 5052 - Jason Scott.jpg",
+  "license": "CC BY 2.0",
+  "artist": "Jason Scott",
+  "page": "https://commons.wikimedia.org/wiki/File:Internet_Archive_servers_5052_-_Jason_Scott.jpg"
+ },
+ "fei.jpg": {
+  "title": "File:Cottingley Fairies 3.jpg",
+  "license": "общественное достояние",
+  "artist": "Элси Райт, 1920",
+  "page": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies_3.jpg"
+ },
+ "zamok.jpg": {
+  "title": "File:Combination Padlock 2.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Wasiul Bahar",
+  "page": "https://commons.wikimedia.org/wiki/File:Combination_Padlock_2.jpg"
+ },
+ "sledy.jpg": {
+  "title": "File:Footprints on the beach - Nea Peramos.jpg",
+  "license": "CC0",
+  "artist": "Annatsach",
+  "page": "https://commons.wikimedia.org/wiki/File:Footprints_on_the_beach_-_Nea_Peramos.jpg"
  }
 }
