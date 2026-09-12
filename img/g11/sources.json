@@ -1,0 +1,26 @@
+{
+ "mosty.png": {
+  "title": "File:Konigsberg bridges marked.png",
+  "license": "CC BY-SA 3.0",
+  "artist": "Bogdan Giuşcă, Kneiphof",
+  "page": "https://commons.wikimedia.org/wiki/File:Konigsberg_bridges_marked.png"
+ },
+ "eyler.jpg": {
+  "title": "File:EulerLeonhard.jpg",
+  "license": "Public domain",
+  "artist": "Jakob Emanuel Handmann",
+  "page": "https://commons.wikimedia.org/wiki/File:EulerLeonhard.jpg"
+ },
+ "drevo.jpg": {
+  "title": "File:Pedigree of man (Haeckel 1874).jpg",
+  "license": "Public domain",
+  "artist": "Ernst Haeckel",
+  "page": "https://commons.wikimedia.org/wiki/File:Pedigree_of_man_(Haeckel_1874).jpg"
+ },
+ "stoyka.jpg": {
+  "title": "File:Rear of rack at NERSC data center - closeup.jpg",
+  "license": "CC0",
+  "artist": "Derrick Coetzee",
+  "page": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg"
+ }
+}
