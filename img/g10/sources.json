@@ -1,0 +1,38 @@
+{
+ "ibm-pc.jpg": {
+  "title": "File:Ibm pc 5150.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Ruben de Rijcke",
+  "page": "https://commons.wikimedia.org/wiki/File:Ibm_pc_5150.jpg"
+ },
+ "materinka.jpg": {
+  "title": "File:Motherboard Baby AT.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "Andrew Dunn",
+  "page": "https://commons.wikimedia.org/wiki/File:Motherboard_Baby_AT.jpg"
+ },
+ "kristall.jpg": {
+  "title": "File:Intel 286 CPU - Die shot 20100311.jpg",
+  "license": "CC BY 2.0",
+  "artist": "rasimick",
+  "page": "https://commons.wikimedia.org/wiki/File:Intel_286_CPU_-_Die_shot_20100311.jpg"
+ },
+ "disk-vnutri.jpg": {
+  "title": "File:Seagate ST33232A hard disk inner view.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Eric Gaba (Sting)",
+  "page": "https://commons.wikimedia.org/wiki/File:Seagate_ST33232A_hard_disk_inner_view.jpg"
+ },
+ "unix.png": {
+  "title": "File:Version 5 Unix SIMH PDP11 Emulation.png",
+  "license": "CC0",
+  "artist": "Huihermit",
+  "page": "https://commons.wikimedia.org/wiki/File:Version_5_Unix_SIMH_PDP11_Emulation.png"
+ },
+ "fon-neyman.jpg": {
+  "title": "File:John von Neumann.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "wikispaces",
+  "page": "https://commons.wikimedia.org/wiki/File:John_von_Neumann.jpg"
+ }
+}
