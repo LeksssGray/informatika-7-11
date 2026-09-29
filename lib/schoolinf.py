@@ -431,7 +431,7 @@ def check_value(task, value, digest, name=None, hint=""):
         return False
 
     title = name or f"Задача {task}"
-    ok = digest_of(value) == digest
+    ok = _совпало(value, digest)  # «741,75» из формы сходится с 741.75
     if ok:
         print(f"{OK}  {title}: верно.")
     else:
