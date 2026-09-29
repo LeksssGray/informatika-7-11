@@ -610,10 +610,13 @@ def _send(task, entry, source):
             # Отказ — не ошибка сети, но результат не записан: считаем его
             # неотправленным, чтобы в конце урока появилась квитанция.
             тело = ответ.read(200).decode("utf-8", "replace")
-        if '"rejected"' in тело:
-            _state["send_errors"] += 1
-        else:
+        # Записано только при явном «ok». Отказ («rejected»), ошибка
+        # скрипта («error») или чужая страница вместо ответа — не записано:
+        # считаем неотправленным, чтобы в конце урока появилась квитанция.
+        if '"status":"ok"' in тело.replace(" ", ""):
             _state["sent"] += 1
+        else:
+            _state["send_errors"] += 1
     except (urllib.error.URLError, TimeoutError, OSError):
         _state["send_errors"] += 1
 
